@@ -1,3 +1,1 @@
-# itsbroken.io
-
-helping things get fixed. fast.
+### thanks for letting us know something is broken! we'll get that fixed right away
